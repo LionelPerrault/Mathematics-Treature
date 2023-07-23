@@ -1,0 +1,128 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "content": "Error!!!!\nA fatal error occurred while opening the file! Code entry required for successful decryption of the file! Note: The different number systems will help you!\n\n0b10000010001 + 0x49C – 0b11001000 = ?\n\nTip: Prefixes (0b, 0x)\n\n- without a prefix are decimal numbers\n- 0x... are hexadecimal numbers\n- 0b... are binary numbers\n\nAnswers are without a prefix",
+            "textAnswer": "Give the answer in the decimal system",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+					"singleAnswer": "2021",
+					"mode": 0
+				},
+                "multipleChoices": []
+            }
+        },
+        {
+            "id": 2,
+            "content": "One of my many expeditions took me to a remote mountain village. I learned from one of the people living there that there is said to be an ancient temple in this area that is said to be filled with many precious treasures. The villagers told me that this temple is said to be on the highest peak in this mountain range. After carefully studying the surrounding landscape, I found that the mountain range can be approximated by the function f.\n\nf(x)=-0.15x⁴-0.4x³+0.9x²+1.3x+2.7\n\nEnter the x-coordinate of the peak!\n\n(Hint: Newton's method)",
+            "textAnswer": "Round your result to ONE decimal place.",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+                    "singleAnswer": "-2,8",
+                    "mode": 0
+                },
+                "multipleChoices": []
+            }
+        },
+        {
+            "id": 3,
+            "content": "Now that I knew where to look, I packed my things for the hike to the summit. I was faced with choosing my gear. My hiking equipment was more suitable for tours with a less steep route (gradient between -1 and +1). I only needed the climbing equipment for larger inclines. The coordinates of the village are: D (0/2.7). The coordinates of the summit are known from the previous exercise (the y-coordinate is also rounded to one decimal place).",
+            "textAnswer": "Decide what equipment is needed based on the average gradient of the tour!",
+            "answer": {
+                "isMultipleChoice": true,
+                "singleAnswer": "",
+                "multipleChoices": [
+					{
+						"sentence": "hiking equipment",
+						"isCorrect": false
+					},
+					{
+						"sentence": "climbing equipment",
+						"isCorrect": true
+					}
+				]
+            }
+        },
+        {
+            "id": 4,
+            "content": "Error!\nA fatal error occurred while opening the file! Code entry required for successful file decryption!\n\n 0x40A + 0b? = 1234",
+            "textAnswer": "Give your solution in binary!\n(Note: the number is 8-bit)",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+					"singleAnswer": "11001000",
+					"mode": 2					
+				},
+                "multipleChoices": []
+            }
+        },
+		{
+            "id": 5,
+            "content": "Another journey took me to a distant island in the South Seas. The people living there have been regularly attacked by pirates for a long time. I helped the islanders drive off the pirates. In gratitude they gave me land on their island. They gave me a 200 m long rope to stake out my country with. I chose a spot on the beach because I only had to stake out my property on three sides.",
+            "textAnswer": "What is the maximum size of my property under these conditions? Give your solution in Ar!",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+					"singleAnswer": "50",
+					"mode": 0	
+				},
+                "multipleChoices": []
+            }
+        },
+		{
+            "id": 6,
+            "content": "Mistake! A fatal error occurred while opening the file! Code entry required for successful file decryption!\n\n 0b11010 + 0x? = 56",
+            "textAnswer": "Give your answer in hexadecimal!",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+					"singleAnswer": "1E",
+					"mode": 1					
+				},
+                "multipleChoices": []
+            }
+        },
+		{
+            "id": 7,
+            "content": "Many years ago I discovered an ancient temple in a distant land with a good friend. We heard that many ancient treasures are hidden in this temple. So we started our expedition through the centuries-old walls. We soon discovered a dark room and quickly realized that many traps had been set up in it. At the entrance to this room, however, we discovered some clues that should help us find a safe way through this sea of traps.\n\n- The path of the safe path resembles the path of a third-degree rational function. (f(x) = ax³+bx²+cx+d)\n- The entrance door is on point E (-2|0).\n- The exit door is on point A (1|3).\n- The function has an extreme point at -4/3.\n- The function graph runs through the origin.",
+            "textAnswer": "Calculate the parameters of the functional equation and then select all the correct answer options.",
+            "answer": {
+                "isMultipleChoice": true,
+                "singleAnswer": "",
+                "multipleChoices": [
+					{
+						"sentence": "a = 1",
+						"isCorrect": true
+					},
+					{
+						"sentence": "c = 4",
+						"isCorrect": false
+					},
+					{
+						"sentence": "b = 2",
+						"isCorrect": true
+					},
+					{
+						"sentence": "c = 0",
+						"isCorrect": true
+					}
+				]
+            }
+        },
+		{
+            "id": 8,
+            "content": "Now that we knew the approximate route, we wanted to start walking. My friend pointed out to me that he could not see the exact path. He wanted to know which way to go.\n\nCalculate the exact angle of our route at the front door",
+            "textAnswer": "Round your result to the nearest whole number of degrees!",
+            "answer": {
+                "isMultipleChoice": false,
+                "singleAnswer": {
+					"singleAnswer": "76",
+					"mode": 0				
+				},
+                "multipleChoices": []
+            }
+        }
+    ]
+}
